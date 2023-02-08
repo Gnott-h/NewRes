@@ -1,4 +1,5 @@
 let searchbox = document.querySelector('#s');
+        var x = document.getElementById();
         let searchMain = document.querySelector('#sb');
         let inputbox = document.querySelector('#ip');
         searchbox.onclick = function()
